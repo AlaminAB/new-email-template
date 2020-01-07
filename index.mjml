@@ -1,0 +1,178 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#cdccc7">
+
+   <mj-section>
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="7px" border-style="solid" border-color="#668e1b" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='#fff' padding="30px 30px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="bold">
+          < Community Name>
+
+        </mj-text>
+        <mj-text font-size="19px" line-height="30px">
+          < Community Phone Number>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image align='right' src="logo.png" alt="" width="134" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="banner.jpg" alt="" width="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#eeeeee" padding="0px 30px">
+      <mj-column>
+        <mj-text font-size="36px" color="#2d4f5d" align="center" font-weight="bold" padding="40px 0px">
+          We Welcome Furry Friends
+        </mj-text>
+        <mj-text font-size="14px" line-height="20px" color="#545454" align="center">
+          Known around campus as the “Handy Hunk,” Holiday resident Bill Cardarelle keeps busy with a fully functional workshop in his retirement community. Describing himself as a “little old farm boy” turned mechanic, Bill helps residents fix just about anything -- from wheelchairs to watches. He lives at Holiday with his wife Ester, who says the first thing she noticed about Bill was that he was “all smiles.” Learn why his life at Holiday gives him many reasons to keep those smiles coming.
+        </mj-text>
+        <mj-button background-color="#658d1a" color="white" padding="25px 0px" font-size="14px">
+          WATCH NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px 20px">
+      <mj-column>
+        <mj-image src="img-1.jpg" alt="" width="" />
+      </mj-column>
+      <mj-column padding="0px 20px">
+        <mj-text font-size="18px" font-weight="bold" color="#2d4f5d">
+          We Welcome Furry Friends
+        </mj-text>
+        <mj-text font-size="14px" line-height="18px" color="#545454" padding="8px 0px">
+          Pets are family too, and we can’t wait to welcome your fur baby into our community. We are confident your dog or cat will love life at Holiday Retirement just as much as you.
+        </mj-text>
+        <mj-button align="left" background-color="#658d1a" color="white" padding="0px 0px" font-size="14px">
+          Read More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px" background-color="#fff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#668e1b" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="40px 0px">
+      <mj-column>
+        <mj-text line-height="30px" font-size="36px" align="center" color="#2d4f5d" font-weight="bold">
+          January Spotlight Events
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#fff" background-url="line.png" background-repeat="no-repeat">
+      <!-- Your content goes here -->
+      <mj-section padding="0px 0px">
+        <mj-column>
+          <mj-image padding="0px 35px 0px 65px" height="150px" src="img-2.jpg" alt="img" />
+        </mj-column>
+        <mj-column padding="0px 20px">
+          <mj-text font-size="18px" padding="0px 0px 0px 15px" color="#2d4f5d" font-weight="bold">
+            Elvis Birthday Bash
+          </mj-text>
+          <mj-text line-height="50px" color="#545454" padding="0px 0px 0px 15px">Saturday January 11, 2020</mj-text>
+          <mj-text font-size="14px" color="#545454" padding="0px 0px 0px 15px" line-height="18px">
+            Elvis is as much of household name for those 65+ as Google is for the Millennials. While America’s rock and roll heartthrob may no longer grace us with his actual presence, the quest accurately impersonator lives on.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="50px 0px">
+        <mj-column>
+          <mj-image padding="0px 35px 0px 65px" height="150px" src="img-4.jpg" alt="img" />
+        </mj-column>
+        <mj-column padding="0px 20px">
+          <mj-text font-size="18px" padding="0px 0px 0px 15px" color="#2d4f5d" font-weight="bold">
+            National Pie Day
+          </mj-text>
+          <mj-text line-height="50px" color="#545454" padding="0px 0px 0px 15px">Thursday January 23, 2020</mj-text>
+          <mj-text font-size="14px" color="#545454" padding="0px 0px 0px 15px" line-height="18px">
+            Life is better with Pie! Come spend time with us reflecting on the good stories of life that unite humanity and make this day a little bit sweeter.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#fff" padding="20px 20px">
+      <mj-column>
+        <mj-text font-size="15px" align="center">
+For more information or to RSVP to one or both of these events, give us a call! 
+        </mj-text>
+        <mj-text font-size="28px" color="#2d4f5d" font-weight="bold" line-height="60px" align="center">
+        Call for more info: <555.555.5555>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <mj-section>
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#e6e6e6" />
+      </mj-column>
+    </mj-section>  
+    <mj-section background-color="#f3f3f3" padding="20px 20px">
+      <mj-column>
+        <mj-text font-size="11px" color="#545454" line-height="14px" align="left">
+< Communtiy Name >
+        </mj-text>
+           <mj-text font-size="11px" color="#545454" line-height="14px" align="left">
+< 555.555.5555 >
+        </mj-text>
+           <mj-text font-size="11px" color="#545454" line-height="14px" align="left">
+< 123 Community Address, City, ST, 12345 >
+        </mj-text>
+      </mj-column>
+      <mj-column>
+             <mj-text font-size="11px" color="#545454" line-height="14px" align="right">
+A Holiday Retirement Community
+        </mj-text>
+           <mj-text font-size="11px" color="#545454" line-height="14px" align="right">
+www.HolidayTouch.com
+        </mj-text>
+        <mj-social font-size="12px" align="right" padding="10px 0px" icon-size="25px" mode="horizontal">
+          <mj-social-element name="facebook" href="#">
+          
+          </mj-social-element>
+          <mj-social-element name="pinterest" padding="0px 10px" href="#">
+           
+          </mj-social-element>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+<mj-column padding="15px 0px">
+<mj-text align="center" font-size="11px" color="#545454">
+Click here to <a href="#" style="color:#545454">unsubscibe</a>
+</mj-text>
+</mj-column>
+    </mj-section>
+       <mj-section>
+      <mj-column>
+        <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+  </mj-body>
+</mjml>
